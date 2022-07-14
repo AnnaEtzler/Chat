@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140276433798",
+    "firebase_url": "https://helloworld-a6ce6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "helloworld-a6ce6",
+    "storage_bucket": "helloworld-a6ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140276433798:android:9830017cacbb268d05a207",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140276433798-qvqu99ccpvhadu1o89utpcoea9n222qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helloworld",
+            "certificate_hash": "fee72602e9229c826db1652f15688f86e3f0d782"
+          }
+        },
+        {
+          "client_id": "140276433798-i7ssdgh5cuoh3fs1ni3d8gsvqsin89fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0DUEfZ18JMNKexCwSWMcWFZer7c1HXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140276433798-i7ssdgh5cuoh3fs1ni3d8gsvqsin89fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
